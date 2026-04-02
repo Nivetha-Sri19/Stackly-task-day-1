@@ -1,2 +1,1 @@
-John, 25, Developer
-Sara, 22, Designer
+
